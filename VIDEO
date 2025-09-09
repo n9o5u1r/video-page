@@ -1,0 +1,55 @@
+index.html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>ABC Baby Song</title>
+  <style>
+    body {
+      background-color: #f0f8ff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    video {
+      width: 90%;
+      max-width: 600px;
+      margin-top: 20px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      font-size: 18px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>ABC Baby Song</h1>
+
+  <video id="babyVideo" controls>
+    <source src="ABC_Baby_Song.mp4" type="video/mp4">
+    المتصفح لا يدعم تشغيل الفيديو. يرجى استخدام متصفح أحدث أو تحميل الفيديو مباشرة.
+  </video>
+
+  <br>
+
+  <button onclick="window.location.href='https://appinventor.local/back'">🔙 الرجوع إلى التطبيق</button>
+</body>
+</html>
+
+  <button onclick="window.location.href='https://appinventor.local/back'"></button>
+</body>
+</html>
