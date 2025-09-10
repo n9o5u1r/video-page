@@ -40,7 +40,8 @@ index.html
   <h1>ABC Baby Song</h1>
 
   <video id="babyVideo" controls>
-    <source src="ABC_Baby_Song.mp4" type="video/mp4">
+    <source src="ABC_Baby_Song.mp4.mp4" type="video/mp4">
+
     المتصفح لا يدعم تشغيل الفيديو. يرجى استخدام متصفح أحدث أو تحميل الفيديو مباشرة.
   </video>
 
